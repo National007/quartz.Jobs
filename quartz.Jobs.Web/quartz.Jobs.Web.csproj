@@ -121,6 +121,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\BackgroundJobController.cs" />
     <Compile Include="Controllers\BackgroundJobLogController.cs" />
+    <Compile Include="Controllers\TestController.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
